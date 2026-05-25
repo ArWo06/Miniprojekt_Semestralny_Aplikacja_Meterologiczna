@@ -1,0 +1,2 @@
+# Miniprojekt_Semestralny_Aplikacja_Meterologiczna
+Repozytorium zawierające miniprojekt semestralny aplikacji pogodowej napisany w Python 
