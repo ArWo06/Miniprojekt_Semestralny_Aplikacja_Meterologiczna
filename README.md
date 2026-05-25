@@ -1,7 +1,7 @@
 ## Miniprojekt_Semestralny_Aplikacja_Meterologiczna
 
 ## Opis projektu
-  Aplikacja umożliwia pobieranie, przeglądanie i analizowanie danych meteorologicznych ze stacji synoptycznych w Polsce. Dane są pobierane z API IMGW i przechowywane lokalnie w pliku JSON, dzięki czemu aplikacja działa również offline (na wcześniej pobranych danych). Projekt napisany jest za pomocą programowania obiektowego z podziałem na trzy klasy odpowiadające za osobne warstwy aplikacji.
+  Aplikacja umożliwia pobieranie, przeglądanie i analizowanie danych meteorologicznych ze stacji synoptycznych w Polsce. Dane są pobierane z API IMGW i przechowywane lokalnie w pliku JSON, dzięki czemu aplikacja działa również offline (na wcześniej pobranych danych). 
 
 ## Funkcje:
 - Pobieranie aktualnych danych pogodowych z API IMGW (dane synoptyczne)
