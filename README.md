@@ -16,6 +16,5 @@ Repozytorium zawierające miniprojekt semestralny aplikacji pogodowej z graficzn
   - dniu tygodnia (np. `poniedziałek`)
 - Podsumowanie statystyczne dla wyfiltrowanych danych: liczba stacji, średnia temperatura, najcieplejsza i najzimniejsza stacja
 - Okno statystyk regionalnych — suma opadów i średnie ciśnienie pogrupowane według województw
----
 
 Źródło danych meterologicznych: https://danepubliczne.imgw.pl/api/data/synop
