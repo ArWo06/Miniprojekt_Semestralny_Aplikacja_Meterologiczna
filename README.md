@@ -1,6 +1,4 @@
 ## Miniprojekt_Semestralny_Aplikacja_Meterologiczna
-Repozytorium zawierające miniprojekt semestralny aplikacji pogodowej z graficznym interfejsem użytkownika pobierająca dane w czasie rzeczywistym z publicznego API IMGW napisana w Python.
-
 
 ## Opis projektu
   Aplikacja umożliwia pobieranie, przeglądanie i analizowanie danych meteorologicznych ze stacji synoptycznych w Polsce. Dane są pobierane z API IMGW i przechowywane lokalnie w pliku JSON, dzięki czemu aplikacja działa również offline (na wcześniej pobranych danych). Projekt napisany jest za pomocą programowania obiektowego z podziałem na trzy klasy odpowiadające za osobne warstwy aplikacji.
